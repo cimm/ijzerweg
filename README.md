@@ -4,7 +4,7 @@ Ijzerweg is a command line program around the [iRail](https://irail.be) routepla
 
 ## Install
 
-The binary should work on 64-bit Linux machines. Simply drop the file somewhere in your path.
+The [binary](https://github.com/cimm/ijzerweg/releases) should work on 64-bit Linux machines. Simply drop the file somewhere in your path.
 
 You can build the program yourself for other architecures. It's a mere `go build ijzerweg.go formatter.go` from the project's root folder.
 
